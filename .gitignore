@@ -1,0 +1,5 @@
+client/node_modules
+node/node_modules/
+node/config.json
+node/index.bundle.js
+node/yarn-error.log
